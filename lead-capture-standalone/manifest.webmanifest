@@ -1,0 +1,12 @@
+{
+  "name": "Lead Capture",
+  "short_name": "Leads",
+  "description": "Scan attendee nametags and capture leads in real time",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#0f2742",
+  "theme_color": "#0f2742",
+  "icons": [
+    { "src": "icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any maskable" }
+  ]
+}
